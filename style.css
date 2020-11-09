@@ -1,0 +1,73 @@
+body { 
+    background-image: url("assets/topography.png");
+    background-color: #ffffff;
+    font-family: consolas; src:url(/font/Consolas.ttf);
+    font-size: 110%;
+    margin: 0;
+}
+
+a:link {color: #ff0099;}
+
+a:visited {color: #ff0099;}
+
+.logo {
+    float : left;
+    padding-left: 11%;
+    padding-top: 10px;
+} 
+
+ul {
+    background-color: #333333;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    height: 50px;
+    text-align: right;
+    padding-right: 10%;
+}
+
+  li {
+      display:inline-block;
+      padding: 12px;
+}
+
+  section {
+    text-align: center;
+    padding-top: 3%;  
+}
+
+  h1 {
+    font-size: 40px;
+    padding-top: 4%;
+}
+
+div.content {
+    padding-left: 10%;
+    width: 80%;
+}
+
+div.greenf {
+  font-family: "Itim", cursive;
+  font-size: 30px;
+  color: #ff0099;
+  padding-bottom: 0.5%;
+  padding-top: 0.5%;          
+}
+
+div.wiki {
+  font-size: 33px;
+  font-weight: bolder;
+  text-align: center;
+  padding-bottom: 3%;
+  padding-top: 3%;
+}
+
+div.defcim { 
+  font-size: 28px;
+  font-weight: 600;
+  padding-bottom: 1%;
+}
+
+article {
+  line-height: 1.6;
+}
